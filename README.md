@@ -5,6 +5,10 @@ Choose your difficulty level and answer 3 random exponentiation questions before
 
 ---
 
+## 🖼️ Important Note
+
+Please place all image files (start.png, secenek.png, zor.png, etc.) in the same folder as the .py game file.
+
 ## 🎮 Features
 - 3 difficulty levels: Easy, Medium, Hard
 - Random exponentiation (`a^b`) questions
